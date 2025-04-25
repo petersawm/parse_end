@@ -2,16 +2,6 @@
 
 This project is built for [Brief description of what the project does].
 
-## Directory Structure
-
-init_scripts/
-server/
-workers/
-.gitignore
-docker-compose.yml
-requirements.txt
-start.bat
-
 * **`init_scripts/`**: Contains initial scripts required to set up the project. This might include scripts for setting up environment variables, creating necessary directories, etc.
 * **`server/`**: Houses the server-side code of the project. This directory likely contains API endpoints and business logic.
 * **`workers/`**: Contains code for background tasks, such as queue processing or scheduled jobs.
@@ -34,7 +24,8 @@ Follow these steps to get the project up and running.
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [Repository URL]
+    
+    git clone [https://github.com/petersawm/parse_endRepository URL]
     cd [Project Directory]
     ```
     (Replace `[Repository URL]` with your project's Git repository URL and `[Project Directory]` with the name of the cloned directory.)
