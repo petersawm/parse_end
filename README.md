@@ -25,8 +25,8 @@ Follow these steps to get the project up and running.
 1.  Clone the repository to your local machine:
     ```bash
     
-    git clone [https://github.com/petersawm/parse_endRepository URL]
-    cd [Project Directory]
+    git clone [https://github.com/petersawm/parse_end]
+    cd [parse_end]
     ```
     (Replace `[Repository URL]` with your project's Git repository URL and `[Project Directory]` with the name of the cloned directory.)
 
